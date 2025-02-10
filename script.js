@@ -54,18 +54,17 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Chắc chưa ní?",
+    "Có chắc thiệt hong zậy??",
+    "Thiệt luôn hả?",
+    "Đi mà làm ơn...",
+    "Suy nghĩ kỉ coi!!",
+    "Nếu từ chối Na sẻ buồn lắm đó😭...",
+    "Sẻ rất là buồn luônnn...",
+    "Cực kì cực kì buồn 😭😭😭...",
+    "Thôi được rồi không hỏi nữa đâu...",
+    "Đùa thôi hãy bấm yes đi mà ! 🦧❤️"
 ];
-
 let messageIndex = 0;
 
 function handleNoClick() {
